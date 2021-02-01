@@ -1,4 +1,4 @@
-,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Punta Arenas,CL,-53.15,-70.9167,288.15,55,40,15.43,scattered clouds
 1,Georgetown,MY,5.4112,100.3354,301.15,78,20,1.03,few clouds
 2,Jamestown,US,42.097,-79.2353,271.48,86,90,3.6,light snow
